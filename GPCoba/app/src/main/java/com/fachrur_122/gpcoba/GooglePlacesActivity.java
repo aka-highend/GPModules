@@ -22,7 +22,7 @@ import com.google.android.gms.maps.model.LatLng;
 
 public class GooglePlacesActivity extends FragmentActivity implements LocationListener {
 
-    private static final String GOOGLE_API_KEY = "AIzaSSDFSDF8Kv2eP0PM8adf5dSDFysdfas323SD3HA";
+    private static final String GOOGLE_API_KEY = "<Your API Key>";
     GoogleMap googleMap;
     EditText placeText;
     double latitude = 0;
